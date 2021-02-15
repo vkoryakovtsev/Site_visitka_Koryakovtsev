@@ -1,0 +1,28 @@
+@font-face {
+    src: url(../fonts/OpenSans-Regular.ttf);
+    font-family: 'OpenSans-Regular';
+    }
+@font-face {
+        src: url(../fonts/OpenSans-Bold.ttf);
+        font-family: 'OpenSans-Bold';
+    }
+@font-face {
+    src: url(../fonts/OpenSans-ExtraBold.ttf);
+    font-family: 'OpenSans-ExtraBold';
+    } 
+h1 {
+    font-size: 33px;
+    color: rgba(36, 19, 27, 0.795);
+
+}
+body {
+    background-color: white;
+    font-family:  'Open Sans', 'OpenSans-Regular', 'Times New Roman', Helvetica, Arial, sans-serif;
+}
+a:hover {
+    background: rgb(121, 156, 219);
+}
+img {
+    margin: 5px 150px;
+    border: solid 1px rgb(97, 97, 224);
+}
